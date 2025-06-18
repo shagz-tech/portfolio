@@ -1,7 +1,7 @@
 
 function handleSubmit() {
   alert("Thank you for your message!");
-  return false; // Prevents actual form submission
+  return false;
 }
 
 

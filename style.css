@@ -1,12 +1,11 @@
 
-/* Global Reset */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Base Styles */
+
 body {
   font-family: 'Segoe UI', sans-serif;
   line-height: 1.6;
@@ -20,7 +19,7 @@ a {
   color: #ffffff;
 }
 
-/* Header */
+
 header {
   background: #0e76a8;
   color: white;
@@ -28,7 +27,6 @@ header {
   padding: 2rem 1rem;
 }
 
-/* Navbar */
 nav {
   background-color: #333;
   display: flex;
@@ -50,7 +48,7 @@ nav a:hover {
   border-radius: 5px;
 }
 
-/* Sections */
+
 section {
   padding: 2rem;
   margin: 1rem auto;
@@ -101,7 +99,7 @@ button:hover {
   background-color: #095e8e;
 }
 
-/* Footer */
+
 footer {
   text-align: center;
   padding: 1.5rem;
@@ -112,7 +110,7 @@ footer {
   width: 100%;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   nav {
     flex-direction: column;
