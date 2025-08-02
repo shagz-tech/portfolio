@@ -7,7 +7,7 @@ This website showcases my **skills**, **education**, **projects**, **hobbies**, 
 
  🌐 Live Website
 
-🔗 [Click here to view the live site](https://yourusername.github.io/portfolio/)
+🔗 [Click here to view the live site](https://shagz-tech.github.io/portfolio/)
 
 ---
 
@@ -43,7 +43,7 @@ If you want to collaborate or have any inquiries, feel free to connect with me:
 
 - 📧 Email: shagun.gupta_cs24@gla.ac.in
 - 💼 LinkedIn: [www.linkedin.com/in/shagun-gupta-8a3a6732b)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 💻 GitHub: [https://shagz-tech.github.io/portfolio/]
 
 ---
 
