@@ -7,7 +7,7 @@ This website showcases my **skills**, **education**, **projects**, **hobbies**, 
 
  🌐 Live Website
 
-🔗 [Click here to view the live site](https://shagz-tech.github.io/portfolio/)
+🔗 [https://shagz-tech.github.io/portfolio/]
 
 ---
 
