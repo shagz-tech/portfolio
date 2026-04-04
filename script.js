@@ -1,4 +1,4 @@
-// Change Navigation Background on Scroll
+
 window.addEventListener('scroll', () => {
     const nav = document.querySelector('nav');
     if (window.scrollY > 50) {
@@ -10,7 +10,7 @@ window.addEventListener('scroll', () => {
     }
 });
 
-// Simple Click Log for Buttons (Optional)
+
 document.querySelectorAll('.btn').forEach(button => {
     button.addEventListener('click', () => {
         console.log('Button Clicked!');
