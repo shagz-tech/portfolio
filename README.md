@@ -13,7 +13,7 @@ This portfolio is designed to showcase my technical journey as a Computer Scienc
 ### ✨ Key Features
 - **Premium UI:** A sleek "Deep Blue & Electric Cyan" theme with Glassmorphism effects.
 - **Ultra-Responsive:** Optimized for flawless performance on Laptops, Tablets, and Smartphones.
-- **Dynamic Stats:** Highlights my progress (150+ DSA solved, 10+ Projects).
+- **Dynamic Stats:** Highlights my progress (150+ DSA solved, 5+ Projects).
 - **Smooth Navigation:** Sticky navigation bar with blur effects and scroll-linked animations.
 
 ---
@@ -44,7 +44,7 @@ This portfolio is designed to showcase my technical journey as a Computer Scienc
 
 I'm always open to discussing new opportunities, AI research, or full-stack collaborations.
 
-- **📧 Email:** [shagun.gupta_cs24@gla.ac.in](mailto:shagun.gupta_cs24@gla.ac.in)
+- **📧 Email:** [shagun.gupta_cs24@gla.ac.in](mailto:shagung072@gmail.com)
 - **💼 LinkedIn:** [linkedin.com/in/shagun-gupta-8a3a6732b](https://www.linkedin.com/in/shagun-gupta-8a3a6732b)
 - **💻 GitHub:** [shagz-tech](https://github.com/shagz-tech)
 
