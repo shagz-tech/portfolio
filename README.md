@@ -1,53 +1,61 @@
-💼 Shagun Gupta | Portfolio Website
+# 💼 Shagun Gupta | Full-Stack Developer Portfolio
 
-Welcome to my personal portfolio website built using **HTML, CSS, and JavaScript**.  
-This website showcases my **skills**, **education**, **projects**, **hobbies**, and a **contact form** for collaboration or inquiries.
+Welcome to my professional portfolio! This repository contains the source code for my personal branding website, featuring a premium high-end aesthetic and a fully responsive layout.
 
----
-
- 🌐 Live Website
-
-🔗 [https://shagz-tech.github.io/portfolio/]
+🌐 **Live Website:** [shagz-tech.github.io/portfolio/](https://shagz-tech.github.io/portfolio/)
 
 ---
 
- 🛠️ Tech Stack
+## 🚀 About This Project
 
-- **HTML5** – Structure
-- **CSS3** – Styling & layout
-- **JavaScript** – Interactivity (dark mode, form alerts)
-- **Font Awesome** – Social icons
-- **GitHub Pages** – Hosting
+This portfolio is designed to showcase my technical journey as a Computer Science student at **GLA University**. It highlights my expertise in AI research, web development, and problem-solving through Data Structures and Algorithms.
 
----
-
- 📋 Features
-
-- Responsive design
-- Dark mode toggle 🌙
-- Social media icons (LinkedIn, GitHub, Email)
-- Contact form (with JavaScript alert)
-- Section-wise layout:
-  - About Me
-  - Education
-  - Skills
-  - Languages
-  - Hobbies & Interests
-  - Contact Me
+### ✨ Key Features
+- **Premium UI:** A sleek "Deep Blue & Electric Cyan" theme with Glassmorphism effects.
+- **Ultra-Responsive:** Optimized for flawless performance on Laptops, Tablets, and Smartphones.
+- **Dynamic Stats:** Highlights my progress (150+ DSA solved, 10+ Projects).
+- **Smooth Navigation:** Sticky navigation bar with blur effects and scroll-linked animations.
 
 ---
 
- 📬 Contact
+## 🛠️ Tech Stack
 
-If you want to collaborate or have any inquiries, feel free to connect with me:
-
-- 📧 Email: shagun.gupta_cs24@gla.ac.in
-- 💼 LinkedIn: [www.linkedin.com/in/shagun-gupta-8a3a6732b)
-- 💻 GitHub: [https://shagz-tech.github.io/portfolio/]
+- **HTML5:** Semantic structure for better SEO and accessibility.
+- **CSS3:** Custom properties (Variables), Flexbox, Grid, and Premium Animations.
+- **JavaScript (ES6+):** Scroll effects, interactive components, and logic.
+- **Icons:** Font Awesome for a professional social presence.
+- **Hosting:** GitHub Pages.
 
 ---
 
- 📝 License
+## 📂 Section-wise Layout
 
-This project is open-source and free to use.  
-Feel free to fork, clone, and build on top of it! 🚀
+- **Hero:** Impactful introduction with professional Call-to-Actions (CTAs).
+- **About Me:** My development philosophy and "vxRachit" styled branding.
+- **Education:** B.Tech in CSE at GLA University (2024-2028).
+- **Projects:** Showcasing **ShagunVerse AI** (OpenAI & Streamlit integration).
+- **Skills:** Proficiency in React.js, Python, C++ (DSA), and more.
+- **Hobbies:** Coding, Hackathons, Dancing, and Content Creation.
+- **Connect:** A high-end contact section for collaborations.
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to discussing new opportunities, AI research, or full-stack collaborations.
+
+- **📧 Email:** [shagun.gupta_cs24@gla.ac.in](mailto:shagun.gupta_cs24@gla.ac.in)
+- **💼 LinkedIn:** [linkedin.com/in/shagun-gupta-8a3a6732b](https://www.linkedin.com/in/shagun-gupta-8a3a6732b)
+- **💻 GitHub:** [shagz-tech](https://github.com/shagz-tech)
+
+---
+
+## 📝 License & Usage
+
+This project is open-source and free to use. Feel free to **Fork**, **Clone**, and build your own amazing version on top of it! 
+
+> "Turning complex problems into elegant digital solutions." — **Shagun Gupta**
+
+<p align="center">
+  Built with 💙 by Shagun Gupta | © 2025
+</p>
