@@ -34,7 +34,7 @@ This portfolio is designed to showcase my technical journey as a Computer Scienc
 - **About Me:** My development philosophy and modern UI-based branding.
 - **Education:** B.Tech in CSE at GLA University (2024-2028).
 - **Projects:** Showcasing **ShagunVerse AI** (OpenAI & Streamlit integration).
-- **Skills:** Proficiency in React.js, Python, C++ (DSA), and more.
+- **Skills:** Proficiency in React.js, Python, Java (DSA), and more.
 - **Hobbies:** Coding, Hackathons, Dancing, and Content Creation.
 - **Connect:** A high-end contact section for collaborations.
 
