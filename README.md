@@ -31,7 +31,7 @@ This portfolio is designed to showcase my technical journey as a Computer Scienc
 ## 📂 Section-wise Layout
 
 - **Hero:** Impactful introduction with professional Call-to-Actions (CTAs).
-- **About Me:** My development philosophy and "vxRachit" styled branding.
+- **About Me:** My development philosophy and modern UI-based branding.
 - **Education:** B.Tech in CSE at GLA University (2024-2028).
 - **Projects:** Showcasing **ShagunVerse AI** (OpenAI & Streamlit integration).
 - **Skills:** Proficiency in React.js, Python, C++ (DSA), and more.
