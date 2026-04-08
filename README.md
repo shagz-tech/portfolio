@@ -42,19 +42,13 @@ This portfolio is designed to showcase my technical journey as a Computer Scienc
 
 ## 📬 Let's Connect
 
-I'm always open to discussing new opportunities, AI research, or full-stack collaborations.
+I'm always open to discussing new opportunities, Tech Explorer , or full-stack collaborations.
 
 - **📧 Email:** [shagun.gupta_cs24@gla.ac.in](mailto:shagung072@gmail.com)
 - **💼 LinkedIn:** [linkedin.com/in/shagun-gupta-8a3a6732b](https://www.linkedin.com/in/shagun-gupta-8a3a6732b)
 - **💻 GitHub:** [shagz-tech](https://github.com/shagz-tech)
 
 ---
-
-## 📝 License & Usage
-
-This project is open-source and free to use. Feel free to **Fork**, **Clone**, and build your own amazing version on top of it! 
-
-> "Turning complex problems into elegant digital solutions." — **Shagun Gupta**
 
 <p align="center">
   Built with 💙 by Shagun Gupta | © 2025
